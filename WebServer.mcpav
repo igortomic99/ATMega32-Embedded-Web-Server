@@ -1,0 +1,126 @@
+[DEVICE]
+Name=ATMEGA32
+Clock=8000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=WebServer.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[BOOT_TYPE]
+Value=0
+[FILES]
+File0=WebServer.c
+Count=1
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+File0=WebServer.c
+File1=.\C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\__Lib_TFT_Defs.c
+Count=2
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\
+Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\
+Path3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\
+Path4=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\
+Count=5
+[HEADER_PATH]
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\
+Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\
+Path3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\
+Path4=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\
+Count=5
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+File0=FAT32_Defs_lte
+File1=FAT32_Driver_lte
+File2=FAT32_lte
+File3=FT800_Defs_LTE
+File4=FT800_LTE
+File5=FT810_Defs_LTE
+File6=FT810_LTE
+File7=FT812_Defs_LTE
+File8=FT812_LTE
+File9=ADC
+File10=Button
+File11=CAN_SPI
+File12=Compact_Flash
+File13=Compact_Flash_FAT16
+File14=Conversions
+File15=C_Math
+File16=C_Stdlib
+File17=C_String
+File18=C_Type
+File19=EEPROM
+File20=EPSON_S1D13700
+File21=FLASH
+File22=Glcd
+File23=Glcd_Fonts
+File24=Keypad4x4
+File25=Lcd
+File26=Lcd_Constants
+File27=Manchester
+File28=MemManager
+File29=Mmc
+File30=Mmc_FAT16
+File31=Mmc_Fat16_Config
+File32=One_Wire
+File33=Port_Expander
+File34=PrintOut
+File35=PS2
+File36=PWM1
+File37=PWM16bit
+File38=PWM2
+File39=RS485
+File40=Software_I2C
+File41=Software_SPI
+File42=Software_UART
+File43=Sound
+File44=SPI_Ethernet
+File45=SPI_Ethernet_24j600
+File46=SPI_Glcd
+File47=SPI_Lcd
+File48=SPI_Lcd8
+File49=SPI_T6963C
+File50=Sprintf
+File51=Sprinti
+File52=Sprintl
+File53=STMPE610
+File54=T6963C
+File55=TFT
+File56=TFT_16bit
+File57=TFT_16bit_Defs
+File58=TFT_Defs
+File59=TFT_TouchPanel
+File60=Time
+File61=TouchPanel
+File62=Trigonometry
+File63=TWI
+File64=UART
+File65=SPI
+Count=66
+[EXPANDED_NODES]
+0=WebServer.mcpav
+Count=1
